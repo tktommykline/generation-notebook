@@ -1,3 +1,4 @@
+
 body {
   background-color: black;
   text-align: center;
@@ -12,3 +13,7 @@ h1 {
   font-size: 100px;
   text-transform: uppercase;
 }
+  
+ .res-title{
+     color: red;
+ }
