@@ -10,10 +10,20 @@ body {
 
 h1 {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  font-size: 100px;
+  font-size: 75px;
   text-transform: uppercase;
 }
   
  .res-title{
      color: red;
  }
+
+ .BT{
+  color: white;
+ }
+
+#button{
+  size: 80px;
+  color:black;
+  background-color: chartreuse;
+}
